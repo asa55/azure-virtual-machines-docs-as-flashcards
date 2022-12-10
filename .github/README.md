@@ -32,4 +32,3 @@ This is exactly where `*-docs-as-flashcards` comes in. I've taken the documentat
 - This project leverages v2.0.0 of [`md2apkg-run`](https://github.com/asa55/md2apkg-run) to build Anki-compatible flashcard deck out of the `.md` flashcard definition files underneath the `Deck/` folder.
 - If you find these flashcards helpful and want to see more, faster, let me know
   - Once these flashcards reach a minimum level of maturity, I'll set up a donation button / Patreon page that you can use to help guide my priorities and help me keep this content aligned with the latest changes to the Microsoft docs
-  - Lastly, I don't plan on stopping with VNet docs. I'll add more flashcard decks (to other repos on my GitHub account) related to Azure and technologies within and surrounding the .NET ecosystem. Keep an eye out for these
