@@ -40,11 +40,11 @@ code and test an application
 
 ##
 
-Applications in the cloud – Because demand for your application can fluctuate, it might make economic sense to run it on a virtual machine in Azure. You pay for extra virtual machines when
+Applications in the cloud – Because demand for your application can fluctuate, it might make economic sense to run it on a virtual machine in Azure. You pay for extra virtual machines when you need them and shut them down when you
 
 %
 
-you need them and shut them down when you don’t
+don’t
 
 ##
 

@@ -22,11 +22,11 @@ These aspects of a virtual machine are important to think about before you start
 
 ##
 
-There are multiple geographical regions around the world where you can create Azure resources. Usually, the region is called **location** when you create a virtual machine. For a virtual machine, the location specifies where
+There are multiple geographical regions around the world where you can create Azure resources. Usually, the region is called _location_ when you create a virtual machine. For a virtual machine, the _location_ specifies where the virtual hard disks will be
 
 %
 
-the virtual hard disks will be stored
+stored
 
 ##
 
